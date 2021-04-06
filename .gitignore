@@ -1,0 +1,9 @@
+# dependencies
+node_modules/
+
+# production bundles
+dist/
+public/js/app.js
+
+# environment vars
+.env
