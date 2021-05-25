@@ -1,5 +1,5 @@
 {
-  "name": "barebones-react-typescript-express",
+  "name": "auth-server-start",
   "version": "1.0.0",
   "description": "",
   "main": "dist/server.js",
